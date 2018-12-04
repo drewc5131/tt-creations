@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Some of my Toontown things I've made
 
-You can use the [editor on GitHub](https://github.com/drewc5131/tt-creations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### From fall 2016 to Late spring 2017, I was part of the Project Altis team.
+### During the spring of 2018, I rejoined the Corporate Clash Team. 
+While on Clash, I had started quite a few projects, and had planned more, that were never completed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+One of the biggest was Custom JSON based GUIs.
+The plan for this was to allow users to customize their GUI how ever they'd like. Similarly to how Minecraft: Bedrock Edition allows. 
+The .JSON file would allow users to tweak and remove already existing gui elements, and add more.
+For instance, a user could  move the health meter to the top corner if they wanted to, or they could remove the Chat Log button if you never use it.
+For more savvy users, they can add their own GUI elements. A user could for instance, add their Toon Tasks to the MAIN HUD
 
-### Markdown
+Here is a little concept drawing showing examples of what could be done
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![concept](https://i.gyazo.com/bba35d6b11dfcb4f7df00617cb896074.png)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drewc5131/tt-creations/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
